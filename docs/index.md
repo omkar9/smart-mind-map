@@ -4,6 +4,7 @@ This folder contains public legal documents for app publishing.
 
 - [Privacy Policy](privacy-policy.md)
 - [Terms and Conditions](terms-and-conditions.md)
+- [Delete Data Request](delete-data.md)
 
 Publisher details:
 - Developer account: `vishnuambika`
@@ -18,4 +19,3 @@ Publisher details:
 
 Expected URL pattern:
 - `https://omkar9.github.io/smart-mind-map/`
-
