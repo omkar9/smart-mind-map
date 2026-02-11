@@ -59,4 +59,5 @@ This policy may be updated in future releases. The "Last updated" date will chan
 
 ## 10. Public Policy URL (GitHub Pages)
 After enabling GitHub Pages, publish this page at:
-- `https://<your-github-username>.github.io/smart-mind-map/privacy-policy`
+- `https://omkar9.github.io/smart-mind-map/privacy-policy`
+
