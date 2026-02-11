@@ -17,4 +17,5 @@ Publisher details:
 5. Save and wait for the public URL.
 
 Expected URL pattern:
-- `https://<your-github-username>.github.io/smart-mind-map/`
+- `https://omkar9.github.io/smart-mind-map/`
+
