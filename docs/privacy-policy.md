@@ -46,6 +46,8 @@ Data may be processed by Google AdMob according to Google's own policies when ad
 - Data created in the app remains on your device unless you delete it.
 - If you uninstall the app, local app data may be removed by your device.
 - You can delete maps and voice notes from inside the app.
+- Delete data request page:
+- `https://omkar9.github.io/smart-mind-map/delete-data`
 
 ## 7. Children's Privacy
 This app is intended for users aged 13+ and is not marketed as a child-directed app.
@@ -60,4 +62,3 @@ This policy may be updated in future releases. The "Last updated" date will chan
 ## 10. Public Policy URL (GitHub Pages)
 After enabling GitHub Pages, publish this page at:
 - `https://omkar9.github.io/smart-mind-map/privacy-policy`
-
