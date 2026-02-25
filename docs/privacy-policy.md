@@ -1,6 +1,6 @@
 # Privacy Policy - Smart Mind Map
 
-Last updated: 2026-02-11
+Last updated: 2026-02-25
 
 Smart Mind Map is an offline-first productivity app by **vishnuambika**.
 
@@ -37,28 +37,40 @@ Microphone permission (`RECORD_AUDIO`) is requested only when you choose to reco
 
 The app does not request microphone permission for normal browsing or editing.
 
-## 5. How Data Is Shared
+Notification permission (`POST_NOTIFICATIONS`, Android 13+) may be requested if you enable daily reminder notifications.
+
+## 5. Local Reminder Notifications
+Smart Mind Map may schedule **local reminder notifications** to help you return to the app and discover relevant templates.
+
+- Reminders are scheduled and generated **on your device** (offline/local).
+- Reminder suggestions may use local app usage signals such as recent templates, favorite templates, and reminder settings.
+- No account is required for reminders.
+- You can disable reminders anytime in the app's **Daily Reminders** settings or your device notification settings.
+
+If notification permission is denied, reminders will not be shown.
+
+## 6. How Data Is Shared
 We do not sell your personal data.
 
 Data may be processed by Google AdMob according to Google's own policies when ads are requested and displayed.
 
-## 6. Data Retention and Deletion
+## 7. Data Retention and Deletion
 - Data created in the app remains on your device unless you delete it.
 - If you uninstall the app, local app data may be removed by your device.
 - You can delete maps and voice notes from inside the app.
 - Delete data request page:
 - `https://omkar9.github.io/smart-mind-map/delete-data`
 
-## 7. Children's Privacy
+## 8. Children's Privacy
 This app is intended for users aged 13+ and is not marketed as a child-directed app.
 
-## 8. Policy Updates
+## 9. Policy Updates
 This policy may be updated in future releases. The "Last updated" date will change when updates are made.
 
-## 9. Contact
+## 10. Contact
 - Developer account: `vishnuambika`
 - Support email: `omkar946@gmail.com`
 
-## 10. Public Policy URL (GitHub Pages)
+## 11. Public Policy URL (GitHub Pages)
 After enabling GitHub Pages, publish this page at:
 - `https://omkar9.github.io/smart-mind-map/privacy-policy`
